@@ -11,13 +11,13 @@ Who made this?
 -----------
 
 Samantha Patrick
-["@madeofquartz"](https://twitter.com/madeofquartz)
+[@madeofquartz](https://twitter.com/madeofquartz)
 
 
 Why was this made?
 -----------
 
-This was an experiment. It is the first time Samantha Patrick has used an API and JSON. And? Success! :)
+This was an experiment & the first time I used an API and JSON. And? Success! :)
 
 
 References:
