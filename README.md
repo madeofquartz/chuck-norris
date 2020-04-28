@@ -1,6 +1,9 @@
 Chuck Norris
 =======
 
+> Demo live [here](http://madeofquartz.com/sandbox/json/chuck-norris/)
+
+
 What is this?
 -----------
 
