@@ -4,7 +4,7 @@ Chuck Norris
 What is this?
 -----------
 
-This is a small app utilizing JS/JSON and a Chuck Norris Joke API. On Refresh, it will load a new Chuck norise joke every time.
+This is a small app utilizing JS+JSON to return jokes from the Chuck Norris Joke API. On Refresh, it will load a new Chuck Norris joke every time.
 
 
 Who made this?
